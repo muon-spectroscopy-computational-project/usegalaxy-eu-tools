@@ -31,10 +31,12 @@ tools:
   owner: goeckslab
   revisions:
   - 6fe0d4f464f4
+  - b84c324b58bd
   tool_panel_section_label: Imaging
 - name: squidpy_spatial
   owner: goeckslab
   revisions:
+  - 2a5036c29889
   - 5b17a47d1ade
   tool_panel_section_label: Imaging
 - name: rename_tiff_channels
@@ -57,4 +59,5 @@ tools:
   owner: goeckslab
   revisions:
   - 09c099c99888
+  - 302ddf03402f
   tool_panel_section_label: Imaging
